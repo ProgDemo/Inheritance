@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523471683 source:e:\elte\prog_demo\inheritance\main.cpp
+	<iostream>
+	"People.h"
+	"Student.h"
+
+1523471718 e:\elte\prog_demo\inheritance\people.h
+	<ostream>
+
+1523471708 e:\elte\prog_demo\inheritance\student.h
+	<ostream>
+
